@@ -1,0 +1,5 @@
+H:\University\CIS 297\Week1Examples\LargerNumber\bin\Debug\LargerNumber.exe.config
+H:\University\CIS 297\Week1Examples\LargerNumber\bin\Debug\LargerNumber.exe
+H:\University\CIS 297\Week1Examples\LargerNumber\bin\Debug\LargerNumber.pdb
+H:\University\CIS 297\Week1Examples\LargerNumber\obj\Debug\LargerNumber.exe
+H:\University\CIS 297\Week1Examples\LargerNumber\obj\Debug\LargerNumber.pdb

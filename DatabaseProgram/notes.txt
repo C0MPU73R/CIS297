@@ -1,0 +1,98 @@
+//notes
+// need tables to show
+//monthly income amount, then where the income is actrually coming from
+//such as career, investmets, interest on the invetments etc
+ //FOR A SPECIFIED MONTH
+
+//then under this, the monthly expenses for variouys items of the users choosing.
+//some ideas are: 
+Bills
+Groceries
+Mortgage
+Credit cards
+Gas
+IRA
+Laundry
+Car loan
+Utilities
+Clothing
+Daycare
+Medical/Dental
+Household repairs
+Savings
+Property taxes
+Other
+//FOR A SPECIFIED MONTH
+
+
+//then at bottom can have income vs expenses chart
+//monthly income vs monthly expenses, grand total amounts
+//show difference
+
+
+
+//TABLES: INCOME TABLE
+//this is a simple table, need only the name of the type of income eg. investments, spouse's salary etc
+//and the amount: lets say investments for this month gave us a grand total of $150, and spouses salary
+//for this month was around 5 grand, (implying she probably makes around 60,000 a year)
+
+
+
+// TABLES: EXPENSES TABLE
+//very similar to the income table, but instead of gaining money, we are losing money
+//example, lets say one of our category names (chosen by the user) was gas, and lets say that was $250 for this
+//month 
+
+
+
+//TODO: CHANGE GUI TO WELCOME AND SET UP USER FIRST BEFORE GOING STAIGHT TO MONTHS TO ADD STUFF	
+
+//1. need to find a way to properly implement "goals",
+//where goals are: Set goals by month for each category - allow the user to change this anytime.
+
+
+//2. Transaction information: Transactions should be entered with Date, Category, Memo, amount, account
+//need a transactions table that relates to each table or only the expenses table, is income technically
+//a transaction? 
+
+
+
+//3. "A running total of actual should be compared with the desired goal per month."
+//this looks like where the "goal" comes into play
+//email explanation from eric about what goal is: 'The goal is a given budget category for a given month"
+
+
+
+
+
+
+
+//PLAN OR HOW EVERYTHING CONNECTS (HOW ALL TABLES SHOULD CONNECT)
+//given a new member, we give them an account, which has various information about them
+//this account table should then connect(somehow, foreign key maybe?/or primary? ) to the expenses
+//and income tables where the expenses and income per month are entered by the user, 
+//it, program then calculates some type of net gain/loss at the bottom, perhaps where it states
+// income vs expenses, it then calculates if the member met their goal or not (***STILL NEEED TO ADD GOAL PORTION)
+// behind the scenes, the system is also keeping track of all transactions (still need to figure out how to 
+//properly implement this)
+
+
+
+QUESTIONs/CONCERNS :>
+//Does the user have to enter information for each "transaction" when they enter an amount for category
+//either for income or expenses? 
+//Confused on how transaction table comes into play
+
+
+
+
+
+
+
+
+
+
+
+
+
+

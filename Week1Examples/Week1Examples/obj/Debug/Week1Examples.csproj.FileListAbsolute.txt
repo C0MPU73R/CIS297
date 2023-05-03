@@ -1,0 +1,6 @@
+H:\University\CIS 297\Week1Examples\Week1Examples\bin\Debug\Week1Examples.exe.config
+H:\University\CIS 297\Week1Examples\Week1Examples\bin\Debug\Week1Examples.exe
+H:\University\CIS 297\Week1Examples\Week1Examples\bin\Debug\Week1Examples.pdb
+H:\University\CIS 297\Week1Examples\Week1Examples\obj\Debug\Week1Examples.csprojResolveAssemblyReference.cache
+H:\University\CIS 297\Week1Examples\Week1Examples\obj\Debug\Week1Examples.exe
+H:\University\CIS 297\Week1Examples\Week1Examples\obj\Debug\Week1Examples.pdb

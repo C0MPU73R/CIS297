@@ -1,0 +1,6 @@
+H:\University\CIS 297\Midterm\midterrm3\midterrm3\bin\Debug\midterrm3.exe.config
+H:\University\CIS 297\Midterm\midterrm3\midterrm3\bin\Debug\midterrm3.exe
+H:\University\CIS 297\Midterm\midterrm3\midterrm3\bin\Debug\midterrm3.pdb
+H:\University\CIS 297\Midterm\midterrm3\midterrm3\obj\Debug\midterrm3.csprojResolveAssemblyReference.cache
+H:\University\CIS 297\Midterm\midterrm3\midterrm3\obj\Debug\midterrm3.exe
+H:\University\CIS 297\Midterm\midterrm3\midterrm3\obj\Debug\midterrm3.pdb

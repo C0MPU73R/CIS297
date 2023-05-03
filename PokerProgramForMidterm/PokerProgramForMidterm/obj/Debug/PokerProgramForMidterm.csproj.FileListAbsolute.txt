@@ -1,0 +1,27 @@
+F:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\bin\Debug\PokerProgramForMidterm.exe.config
+E:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\bin\Debug\PokerProgramForMidterm.exe.config
+E:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\bin\Debug\PokerProgramForMidterm.exe
+E:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\bin\Debug\PokerProgramForMidterm.pdb
+E:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.csprojResolveAssemblyReference.cache
+E:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.poker_game_form.resources
+E:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.Properties.Resources.resources
+E:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.csproj.GenerateResource.Cache
+E:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.exe
+E:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.pdb
+F:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.exe
+F:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.pdb
+F:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\bin\Debug\PokerProgramForMidterm.exe
+F:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\bin\Debug\PokerProgramForMidterm.pdb
+F:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.csprojResolveAssemblyReference.cache
+F:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.PokerGameForm.resources
+F:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.Properties.Resources.resources
+F:\University\CIS 297\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.csproj.GenerateResource.Cache
+F:\University\CIS 297 - X\PokerProgramForMidterm\PokerProgramForMidterm\bin\Debug\PokerProgramForMidterm.exe.config
+F:\University\CIS 297 - X\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.exe
+F:\University\CIS 297 - X\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.pdb
+F:\University\CIS 297 - X\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.csprojResolveAssemblyReference.cache
+F:\University\CIS 297 - X\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.PokerGameForm.resources
+F:\University\CIS 297 - X\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.Properties.Resources.resources
+F:\University\CIS 297 - X\PokerProgramForMidterm\PokerProgramForMidterm\obj\Debug\PokerProgramForMidterm.csproj.GenerateResource.Cache
+F:\University\CIS 297 - X\PokerProgramForMidterm\PokerProgramForMidterm\bin\Debug\PokerProgramForMidterm.exe
+F:\University\CIS 297 - X\PokerProgramForMidterm\PokerProgramForMidterm\bin\Debug\PokerProgramForMidterm.pdb

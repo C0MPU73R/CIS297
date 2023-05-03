@@ -1,0 +1,11 @@
+H:\University\CIS 297\DatabaseProgram\DatabaseProgram\bin\Debug\DatabaseProgram.exe.config
+H:\University\CIS 297\DatabaseProgram\DatabaseProgram\bin\Debug\DBProgDatabase.mdf
+H:\University\CIS 297\DatabaseProgram\DatabaseProgram\bin\Debug\DBProgDatabase_log.ldf
+H:\University\CIS 297\DatabaseProgram\DatabaseProgram\bin\Debug\DatabaseProgram.exe
+H:\University\CIS 297\DatabaseProgram\DatabaseProgram\bin\Debug\DatabaseProgram.pdb
+H:\University\CIS 297\DatabaseProgram\DatabaseProgram\obj\Debug\DatabaseProgram.csprojResolveAssemblyReference.cache
+H:\University\CIS 297\DatabaseProgram\DatabaseProgram\obj\Debug\DatabaseProgram.program_Form.resources
+H:\University\CIS 297\DatabaseProgram\DatabaseProgram\obj\Debug\DatabaseProgram.Properties.Resources.resources
+H:\University\CIS 297\DatabaseProgram\DatabaseProgram\obj\Debug\DatabaseProgram.csproj.GenerateResource.Cache
+H:\University\CIS 297\DatabaseProgram\DatabaseProgram\obj\Debug\DatabaseProgram.exe
+H:\University\CIS 297\DatabaseProgram\DatabaseProgram\obj\Debug\DatabaseProgram.pdb

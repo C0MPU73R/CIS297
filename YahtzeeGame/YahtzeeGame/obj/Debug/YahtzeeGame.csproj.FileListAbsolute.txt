@@ -1,0 +1,28 @@
+C:\Users\Nicholas\Documents\University\Winter 2017\CIS 297\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe.config
+C:\Users\Nicholas\Documents\University\Winter 2017\CIS 297\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe
+C:\Users\Nicholas\Documents\University\Winter 2017\CIS 297\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.pdb
+C:\Users\Nicholas\Documents\University\Winter 2017\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas\Documents\University\Winter 2017\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.Form1.resources
+C:\Users\Nicholas\Documents\University\Winter 2017\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.Properties.Resources.resources
+C:\Users\Nicholas\Documents\University\Winter 2017\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csproj.GenerateResource.Cache
+C:\Users\Nicholas\Documents\University\Winter 2017\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.exe
+C:\Users\Nicholas\Documents\University\Winter 2017\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.pdb
+F:\University\CIS 297\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe.config
+F:\University\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.exe
+F:\University\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.pdb
+F:\University\CIS 297\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe
+F:\University\CIS 297\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.pdb
+F:\University\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csprojResolveAssemblyReference.cache
+F:\University\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.Form1.resources
+F:\University\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.Properties.Resources.resources
+F:\University\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csproj.GenerateResource.Cache
+H:\Directory\Main\CIS\CIS 297\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe.config
+H:\Directory\Main\CIS\CIS 297\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.exe
+H:\Directory\Main\CIS\CIS 297\YahtzeeGame\YahtzeeGame\bin\Debug\YahtzeeGame.pdb
+H:\Directory\Main\CIS\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csprojAssemblyReference.cache
+H:\Directory\Main\CIS\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.Form1.resources
+H:\Directory\Main\CIS\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.Properties.Resources.resources
+H:\Directory\Main\CIS\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csproj.GenerateResource.cache
+H:\Directory\Main\CIS\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.csproj.CoreCompileInputs.cache
+H:\Directory\Main\CIS\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.exe
+H:\Directory\Main\CIS\CIS 297\YahtzeeGame\YahtzeeGame\obj\Debug\YahtzeeGame.pdb

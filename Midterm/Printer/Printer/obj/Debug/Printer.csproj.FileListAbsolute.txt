@@ -1,0 +1,6 @@
+H:\University\CIS 297\Midterm\Printer\Printer\bin\Debug\Printer.exe.config
+H:\University\CIS 297\Midterm\Printer\Printer\bin\Debug\Printer.exe
+H:\University\CIS 297\Midterm\Printer\Printer\bin\Debug\Printer.pdb
+H:\University\CIS 297\Midterm\Printer\Printer\obj\Debug\Printer.csprojResolveAssemblyReference.cache
+H:\University\CIS 297\Midterm\Printer\Printer\obj\Debug\Printer.exe
+H:\University\CIS 297\Midterm\Printer\Printer\obj\Debug\Printer.pdb

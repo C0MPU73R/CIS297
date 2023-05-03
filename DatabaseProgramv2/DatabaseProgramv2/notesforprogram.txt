@@ -1,0 +1,8 @@
+//starting with the category table, it has a name which acts as a primary key
+//and an income/expense column where the user can input either an income/expense
+//income will be a positive number, while an expense will be a negative number
+//the category table has a one to many relationship with the transactions table table
+//the way the category and transactions table are going to communicate is via a primary
+//and foreign key relationship.
+//the primary key being the name column in the categories table and the forign being the
+//category column in the transactions table

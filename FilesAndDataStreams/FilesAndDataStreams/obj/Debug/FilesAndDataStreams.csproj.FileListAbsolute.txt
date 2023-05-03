@@ -1,0 +1,6 @@
+H:\University\CIS 297\FilesAndDataStreams\FilesAndDataStreams\bin\Debug\FilesAndDataStreams.exe.config
+H:\University\CIS 297\FilesAndDataStreams\FilesAndDataStreams\bin\Debug\FilesAndDataStreams.exe
+H:\University\CIS 297\FilesAndDataStreams\FilesAndDataStreams\bin\Debug\FilesAndDataStreams.pdb
+H:\University\CIS 297\FilesAndDataStreams\FilesAndDataStreams\obj\Debug\FilesAndDataStreams.csprojResolveAssemblyReference.cache
+H:\University\CIS 297\FilesAndDataStreams\FilesAndDataStreams\obj\Debug\FilesAndDataStreams.exe
+H:\University\CIS 297\FilesAndDataStreams\FilesAndDataStreams\obj\Debug\FilesAndDataStreams.pdb

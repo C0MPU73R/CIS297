@@ -1,0 +1,6 @@
+H:\University\CIS 297\final\binaryclass\binaryclass\bin\Debug\binaryclass.exe.config
+H:\University\CIS 297\final\binaryclass\binaryclass\bin\Debug\binaryclass.exe
+H:\University\CIS 297\final\binaryclass\binaryclass\bin\Debug\binaryclass.pdb
+H:\University\CIS 297\final\binaryclass\binaryclass\obj\Debug\binaryclass.csprojResolveAssemblyReference.cache
+H:\University\CIS 297\final\binaryclass\binaryclass\obj\Debug\binaryclass.exe
+H:\University\CIS 297\final\binaryclass\binaryclass\obj\Debug\binaryclass.pdb

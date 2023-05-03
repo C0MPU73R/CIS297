@@ -1,0 +1,5 @@
+H:\University\CIS 297\Week1Examples\Week1Examples1-1\bin\Debug\Week1Examples1-1.exe.config
+H:\University\CIS 297\Week1Examples\Week1Examples1-1\bin\Debug\Week1Examples1-1.exe
+H:\University\CIS 297\Week1Examples\Week1Examples1-1\bin\Debug\Week1Examples1-1.pdb
+H:\University\CIS 297\Week1Examples\Week1Examples1-1\obj\Debug\Week1Examples1-1.exe
+H:\University\CIS 297\Week1Examples\Week1Examples1-1\obj\Debug\Week1Examples1-1.pdb
